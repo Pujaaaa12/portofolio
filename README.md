@@ -1,6 +1,11 @@
 # Portofolio
 ## About Me
+Hi, I'm Pujawati, an aspiring Data Analyst. skilled in Excel, Python, SQL, and Tableau. I'm passionate about transforming complex data into clear, actionable insights that optimize operations and drive business decisions.
 ## Project 1: Tableau Visualization
+This was my first interactive dashboard project using Tableau. It represents a key step in my journey to analyze and visualize complex datasets. I’m passionate about using Tableau to uncover hidden trends, tell compelling data stories, and drive meaningful business decisions.
+
+**Tableau Dashboard Link:** https://public.tableau.com/views/OlistDashboard_17910372146380/OlistDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ### About Dataset
 This project analyzes the **Olist Brazilian E-Commerce Dataset**, the largest department store marketplace in Brazil. The dataset spans over 97000+ orders between 2017 and 2018. It contains detailed information on order statuses, customer demographics, payment methods, product categories, seller locations, and actual vs. estimated delivery timelines.
 ### Problem Statement
@@ -12,7 +17,7 @@ As a Data Analyst, my primary objective was to clean, transform, and visualize O
 3. Which state has the highest late shipment rate?
 4. How does shipping freight cost correlate with order delivery delays, and which geographic regions are most affected?
 ### Data Source
-[https://www.kaggle.com/datasets/sakshisatre/tips-dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+https://www.kaggle.com/datasets/sakshisatre/tips-dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 ### Analysis Results
 
 ### Recommendations for Stakeholders
