@@ -6,7 +6,7 @@ This was my first interactive dashboard project using Tableau. It represents a k
 
 ### Data Source and Resources
 Data Source: [Olist Data Source](https://www.kaggle.com/datasets/sakshisatre/tips-dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce))  
-Tools Used: Python, Tableau
+Tools Used: Python, Tableau  
 Dashboard: [View Tableau Dashboard](https://public.tableau.com/views/OlistDashboard_17910372146380/OlistDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### About Dataset
